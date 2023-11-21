@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EmployeeApplication",
+            "request": "launch",
+            "mainClass": "com.example.demo.EmployeeApplication",
+            "projectName": "demo"
+        }
+    ]
+}
